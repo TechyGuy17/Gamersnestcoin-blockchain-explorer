@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {
+      "name": "Gamersnest4",
+      "url": "5.9.250.93",
+      "port": 3570,
+      "ssl": false,
+      "cache": false,
+      "version": "0.1.0.2",
+      "fee": "0.00"
+    },
+    {
+      "name": "Gamersnest",
+      "url": "coins.gamersnest.org",
+      "port": 3570,
+      "ssl": false,
+      "cache": false,
+      "version": "0.1.0.2",
+      "fee": "0.00"
+    }
+   
+    
+  ]
+}
