@@ -1626,9 +1626,9 @@ var salt = '4721283fee2db41e1f2fc50ea9f6d783'; // IMPORTANT: never change it, ot
 var config = {
     coinUnitPlaces: 12,
     coinSymbol: 'KKR',
-    coinName: 'kryptokrona',
-    coinUriPrefix: 'kryptokrona:',
-    addressPrefix: 2239254
+    coinName: 'Gamersnestcoin',
+    coinUriPrefix: 'gamersnestcoin:',
+    addressPrefix: 0x6f6d
 };
 var cnUtil = (function(initConfig) {
     //var config = $.extend({}, initConfig);
