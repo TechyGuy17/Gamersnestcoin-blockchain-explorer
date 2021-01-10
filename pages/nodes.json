@@ -11,7 +11,7 @@
     },
     {
       "name": "Gamersnest",
-      "url": "coins.gamersnest.org",
+      "url": "gnc1.gamersnest.org",
       "port": 3570,
       "ssl": false,
       "cache": false,
