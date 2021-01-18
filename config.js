@@ -14,7 +14,7 @@ const ExplorerConfig = {
 // pools stats
 var networkStat = {
  "gnc": [
-    ["Gamersnest", "https://coins.gamersnest.org"],
+    ["Gamersnest", "https://gnc1.gamersnest.org"],
    
  ]
 };
