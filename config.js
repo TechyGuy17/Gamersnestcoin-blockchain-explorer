@@ -1,4 +1,4 @@
-var api = 'https://explorer.gamersnest.org/api';
+var api = 'http://explorer.gamersnest.org:3570';
 var donationAddress = "gncNiJKiLaQS5orggVHyqwdjzKAgPUpsJCPv4VFywN3d1G3FM6eBhLB3vbSUrmtjawBNwwvL1vvZ4AJfffVkwHYu6Y2Jub1GTn";
 var blockTargetInterval = 60;
 var coinUnits = 100000;
@@ -8,7 +8,7 @@ var refreshDelay = 30000;
 
 
 const ExplorerConfig = {
-    apiBaseUrl: 'https://explorer.gamersnest.org/api'
+    apiBaseUrl: 'https://explorer.gamersnest.org:3570'
   }
 
 // pools stats
